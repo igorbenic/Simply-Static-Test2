@@ -9,7 +9,7 @@
 	<title>
 	Comments on: Sample Page	</title>
 	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/sample-page/</link>
 	<description></description>
 	<lastBuildDate>Thu, 05 Jan 2023 00:11:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

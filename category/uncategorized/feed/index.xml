@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; static</title>
+	<title>Uncategorized Archives - static</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/uncategorized/</link>
 	<description></description>
 	<lastBuildDate>Tue, 27 Jun 2023 22:19:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -29,9 +29,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">static</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">static</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
