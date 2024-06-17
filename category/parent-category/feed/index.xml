@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized Archives - static</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/uncategorized/</link>
+	<title>Parent Category Archives - static</title>
+	<atom:link href="/category/parent-category/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/parent-category/</link>
 	<description></description>
-	<lastBuildDate>Tue, 07 May 2024 16:31:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 16:31:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,27 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
-		<title>Post for Sub category</title>
-		<link>/post-for-sub-category/</link>
-					<comments>/post-for-sub-category/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 16:31:36 +0000</pubDate>
-				<category><![CDATA[Child Category 01]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=3025</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="/post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="/">static</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="/">static</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/post-for-sub-category/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>

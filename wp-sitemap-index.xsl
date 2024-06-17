@@ -8,10 +8,7 @@
 
 	<xsl:output method="html" encoding="UTF-8" indent="yes" />
 
-	<!--
-	  Set variables for whether lastmod occurs for any sitemap in the index.
-	  We do this up front because it can be expensive in a large sitemap.
-	  -->
+	
 	<xsl:variable name="has-lastmod" select="count( /sitemap:sitemapindex/sitemap:sitemap/sitemap:lastmod )" />
 
 	<xsl:template match="/">

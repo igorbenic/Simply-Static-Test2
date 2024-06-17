@@ -8,10 +8,7 @@
 
 	<xsl:output method="html" encoding="UTF-8" indent="yes" />
 
-	<!--
-	  Set variables for whether lastmod, changefreq or priority occur for any url in the sitemap.
-	  We do this up front because it can be expensive in a large sitemap.
-	  -->
+	
 	<xsl:variable name="has-lastmod"    select="count( /sitemap:urlset/sitemap:url/sitemap:lastmod )"    />
 	<xsl:variable name="has-changefreq" select="count( /sitemap:urlset/sitemap:url/sitemap:changefreq )" />
 	<xsl:variable name="has-priority"   select="count( /sitemap:urlset/sitemap:url/sitemap:priority )"   />
