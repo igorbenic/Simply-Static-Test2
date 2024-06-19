@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
+	>
+	<title type="text">static</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2024-05-07T16:31:46Z</updated>
+
+	<link rel="alternate" type="text/html" href="/Simply-Static-Test2//" />
+	<id>/Simply-Static-Test2//feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/Simply-Static-Test2//feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.5.4">WordPress</generator>
+	<entry>
+		<author>
+			<name>admin</name>
+							<uri>/Simply-Static-Test2//</uri>
+						</author>
+
+		<title type="html"><![CDATA[Post for Sub category]]></title>
+		<link rel="alternate" type="text/html" href="/Simply-Static-Test2//post-for-sub-category/" />
+
+		<id>/Simply-Static-Test2//?p=3025</id>
+		<updated>2024-05-07T16:31:46Z</updated>
+		<published>2024-05-07T16:31:36Z</published>
+		<category scheme="/Simply-Static-Test2//" term="Child Category 01" /><category scheme="/Simply-Static-Test2//" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>The post <a rel="nofollow" href="/Simply-Static-Test2//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="/Simply-Static-Test2//">static</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/Simply-Static-Test2//post-for-sub-category/"><![CDATA[<p>The post <a rel="nofollow" href="/Simply-Static-Test2//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="/Simply-Static-Test2//">static</a>.</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/Simply-Static-Test2//post-for-sub-category/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/Simply-Static-Test2//post-for-sub-category/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+							<uri>/Simply-Static-Test2//</uri>
+						</author>
+
+		<title type="html"><![CDATA[Hello world!]]></title>
+		<link rel="alternate" type="text/html" href="/Simply-Static-Test2//hello-world/" />
+
+		<id>/Simply-Static-Test2//?p=1</id>
+		<updated>2024-05-07T16:31:21Z</updated>
+		<published>2022-12-08T20:56:16Z</published>
+		<category scheme="/Simply-Static-Test2//" term="Parent Category" /><category scheme="/Simply-Static-Test2//" term="Uncategorized" />
+		<summary type="html"><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing! Updated website New update</p>
+<p>The post <a rel="nofollow" href="/Simply-Static-Test2//hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/Simply-Static-Test2//">static</a>.</p>
+]]></summary>
+
+					<content type="html" xml:base="/Simply-Static-Test2//hello-world/"><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+
+
+
+<p>Updated website</p>
+
+
+
+<p>New update</p>
+<p>The post <a rel="nofollow" href="/Simply-Static-Test2//hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/Simply-Static-Test2//">static</a>.</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/Simply-Static-Test2//hello-world/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/Simply-Static-Test2//hello-world/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+	</feed>
