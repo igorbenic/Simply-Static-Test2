@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/Simply-Static-Test2//feed/">
+		<meta http-equiv="refresh" content="0;url=//feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/Simply-Static-Test2//feed/";
+			window.location = "//feed/";
 		</script>
 
-		<p>You are being redirected to <a href="/Simply-Static-Test2//feed/">/Simply-Static-Test2//feed/</a></p>
+		<p>You are being redirected to <a href="//feed/">//feed/</a></p>
 	</body>
 </html>
