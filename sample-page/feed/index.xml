@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/Simply-Static-Test2//sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/Simply-Static-Test2//sample-page/</link>
+	<atom:link href="//sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>//sample-page/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Mar 2024 11:56:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

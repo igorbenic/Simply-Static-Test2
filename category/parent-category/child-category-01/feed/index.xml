@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Child Category 01 Archives - static</title>
-	<atom:link href="/Simply-Static-Test2//category/parent-category/child-category-01/feed/" rel="self" type="application/rss+xml" />
-	<link>/Simply-Static-Test2//category/parent-category/child-category-01/</link>
+	<atom:link href="//category/parent-category/child-category-01/feed/" rel="self" type="application/rss+xml" />
+	<link>//category/parent-category/child-category-01/</link>
 	<description></description>
 	<lastBuildDate>Tue, 07 May 2024 16:31:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Post for Sub category</title>
-		<link>/Simply-Static-Test2//post-for-sub-category/</link>
-					<comments>/Simply-Static-Test2//post-for-sub-category/#respond</comments>
+		<link>//post-for-sub-category/</link>
+					<comments>//post-for-sub-category/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 07 May 2024 16:31:36 +0000</pubDate>
 				<category><![CDATA[Child Category 01]]></category>
 		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/Simply-Static-Test2//?p=3025</guid>
+		<guid isPermaLink="false">//?p=3025</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="/Simply-Static-Test2//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="/Simply-Static-Test2//">static</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="//">static</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/Simply-Static-Test2//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="/Simply-Static-Test2//">static</a>.</p>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="//">static</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/Simply-Static-Test2//post-for-sub-category/feed/</wfw:commentRss>
+					<wfw:commentRss>//post-for-sub-category/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
