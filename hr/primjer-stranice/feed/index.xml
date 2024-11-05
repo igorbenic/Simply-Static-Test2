@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Komentari na: Primjer stranice	</title>
+	<atom:link href="/hr/primjer-stranice/feed/" rel="self" type="application/rss+xml" />
+	<link>/hr/</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Mar 2024 11:56:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jul 2024 17:56:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
