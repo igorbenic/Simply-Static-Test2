@@ -28,30 +28,48 @@ if (null !== fuse_config_element) {
         }
     }
 
-    function loadConfig(callback) {
-        let xobj = new XMLHttpRequest();
-        xobj.overrideMimeType("application/json");
-        xobj.open('GET', config_url, false);
-        xobj.onreadystatechange = function () {
-            if (xobj.readyState == 4 && xobj.status == "200") {
-                // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-                callback(xobj.responseText);
+
+
+    async function loadConfig(callback) {
+
+        try {
+            const response = await fetch( config_url, {
+                headers: {
+                    "Content-Type": "application/json",
+                }
+            });
+            if (!response.ok) {
+                throw new Error(`Response status: ${response.status}`);
             }
-        };
-        xobj.send(null);
+
+            const json = await response.text();
+            callback(json);
+
+        } catch (error) {
+            console.error(error.message);
+        }
+
+
     }
 
-    function loadIndex(callback) {
-        let xobj = new XMLHttpRequest();
-        xobj.overrideMimeType("application/json");
-        xobj.open('GET', index_url, false);
-        xobj.onreadystatechange = function () {
-            if (xobj.readyState == 4 && xobj.status == "200") {
-                // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-                callback(xobj.responseText);
+    async function loadIndex(callback) {
+        try {
+            const response = await fetch( index_url, {
+                headers: {
+                    "Content-Type": "application/json",
+                }
+            });
+            if (!response.ok) {
+                throw new Error(`Response status: ${response.status}`);
             }
-        };
-        xobj.send(null);
+
+            const json = await response.text();
+            callback(json);
+
+        } catch (error) {
+            console.error(error.message);
+        }
+
     }
 
     loadIndex(function (response) {
@@ -76,70 +94,59 @@ if (null !== fuse_config_element) {
                 searchResults.push(result);
             }
         }
+
+        if ( null !== fuse ) {
+            fuse.setCollection(searchResults);
+        }
     });
 
 // Search.
-    let searchFormNode = document.querySelector('.search-form')
-    let searchInputNode = document.querySelector('.search-input')
-    let autoCompleteNode = document.querySelector('.search-auto-complete')
-    let resultNode = document.querySelector('.result')
+
+    let keys = ['title', 'content', 'excerpt', 'language'];
+    let fuse = null;
 
     loadConfig(function (response) {
         config = JSON.parse(response);
+
+        fuse = new Fuse(
+            searchResults,
+            {
+                keys: keys,
+                shouldSort: true,
+                threshold: 0.5,
+                maxPatternLength: 50
+            }
+        );
+
         initSearch();
     });
 
-    let input = ''
-    let results = []
-    let selected = -1
-    let showAutoComplete = false
+    function FuseSearchForm( el ) {
+        var self = this;
+        let input = '';
+        let results = [];
+        let selected = -1;
+        let showAutoComplete = false;
+        let container = el;
+        let searchFormNode = null;
+        let searchInputNode = null;
+        let autoCompleteNode = null;
+        let resultNode = null;
 
-    const fuse = new Fuse(
-        searchResults,
-        {
-            keys: ['title', 'content', 'excerpt', 'language'],
-            shouldSort: true,
-            threshold: 0.5,
-            maxPatternLength: 50
-        }
-    )
+        this.handleSearchSubmit = function handleSearchSubmit(event) {
+            if (event) {
+                event.preventDefault()
+            }
 
-    function renderAutoComplete() {
-        if (!showAutoComplete || input.length < 3 || results.length === 0) {
-            autoCompleteNode.classList.remove('show')
-            return ''
-        } else {
-            autoCompleteNode.classList.add('show')
-        }
-        return `
-    <ul>
-      ${results.map((result, index) => `
-      <a href="${result.item.url}" style="text-decoration:none;color:#000000">
-        <li class='auto-complete-item${index === selected ? ' selected' : ''}'>
-          <p><b>${result.item.title}</b></br>
-            <small>${result.item.excerpt}</small>
-          </p>
-        </li>
-      </a>
-    `).join('')}
-    </ul>
-  `
-    }
+            input = searchInputNode.value.trim()
+            selected = -1
 
-    function handleSearchSubmit(event) {
-        if (event) {
-            event.preventDefault()
-        }
+            document.activeElement.blur()
+            autoCompleteNode.innerHTML = self.renderAutoComplete()
 
-        input = searchInputNode.value.trim()
-        selected = -1
-
-        document.activeElement.blur()
-        autoCompleteNode.innerHTML = renderAutoComplete()
-
-        if (input.length > 2) {
-            if (results.length) {
-                resultNode.innerHTML = `
+            if (input.length > 2) {
+                if (results.length) {
+                    resultNode.innerHTML = `
                 <div class="ssp-results"><h5>Searched for: <b>${input}</b></h5>
                 <ul>
                   ${results.map((result, index) => `
@@ -152,65 +159,96 @@ if (null !== fuse_config_element) {
                   </a>
                 `).join('')}
                 </ul></div>`
-            } else {
-                resultNode.innerHTML = `
+                } else {
+                    resultNode.innerHTML = `
             <div class="ssp-results">
             <h5>Searched for: <b>${input}</b></h5>
             <ul>
             <li>We couldn't find any matching results.</li>
             </ul>
             </div>`
+                }
+            } else {
+                resultNode.innerHTML = '';
             }
-        } else {
-            resultNode.innerHTML = '';
         }
-    }
 
-    function handleSearchInput(event) {
-        input = event.target.value
-        results = []
-        if (input.length >= 3) {
-            results = fuse.search(input).slice(0, 7)
+        this.renderAutoComplete = function renderAutoComplete() {
+            if (!showAutoComplete || input.length < 3 || results.length === 0) {
+                autoCompleteNode.classList.remove('show')
+                return ''
+            } else {
+                autoCompleteNode.classList.add('show')
+            }
+            return `
+                <ul>
+                  ${results.map((result, index) => `
+                  <a href="${result.item.url}" style="text-decoration:none;color:#000000">
+                    <li class='auto-complete-item${index === selected ? ' selected' : ''}'>
+                      <p><b>${result.item.title}</b></br>
+                        <small>${result.item.excerpt}</small>
+                      </p>
+                    </li>
+                  </a>
+                `).join('')}
+                </ul>
+              `
         }
-        showAutoComplete = true
-        autoCompleteNode.innerHTML = renderAutoComplete()
-    }
+
+        this.handleSearchInput = function handleSearchInput(event) {
+            input = event.target.value
+            results = []
+            if (input.length >= 3) {
+                results = fuse.search(input).slice(0, 7)
+            }
+            showAutoComplete = true
+            autoCompleteNode.innerHTML = self.renderAutoComplete()
+        }
+
+        this.handleAutoCompleteClick = function handleAutoCompleteClick(event) {
+            event.stopPropagation() // Prevent click from bubbling to window click handler
+            searchInputNode.value = event.target.textContent.trim()
+            showAutoComplete = false
+            self.handleSearchSubmit()
+        }
 
 
-    function handleAutoCompleteClick(event) {
-        event.stopPropagation() // Prevent click from bubbling to window click handler
-        searchInputNode.value = event.target.textContent.trim()
-        showAutoComplete = false
-        handleSearchSubmit()
+        this.init = function init() {
+            searchFormNode = container.querySelector('.search-form');
+            searchInputNode = container.querySelector('.search-input');
+            autoCompleteNode = container.querySelector('.search-auto-complete');
+            resultNode = container.querySelector('.result');
+
+            if ( ! searchFormNode ) {
+                return;
+            }
+
+            // Make sure we remove such if it's registered before.
+            searchFormNode.removeEventListener('submit', this.handleSearchSubmit)
+            searchInputNode.removeEventListener('input', this.handleSearchInput)
+            autoCompleteNode.removeEventListener('click', this.handleAutoCompleteClick)
+
+            searchFormNode.addEventListener('submit', this.handleSearchSubmit)
+            searchInputNode.addEventListener('input', this.handleSearchInput)
+            autoCompleteNode.addEventListener('click', this.handleAutoCompleteClick)
+        }
+
+        this.init();
+
+        return this;
     }
 
     function handleWindowClick(event) {
-        showAutoComplete = false
-        autoCompleteNode.innerHTML = renderAutoComplete()
+        let autocompleters = document.querySelectorAll('.search-auto-complete');
+        if ( autocompleters.length ) {
+            autocompleters.forEach((autocompleteNode) => autocompleteNode.classList.remove('show') );
+        }
     }
 
     function initSearch() {
         if (ssp_search.use_selector) {
             maybeBuildSearch();
         }
-
-        searchFormNode = document.querySelector('.search-form');
-        searchInputNode = document.querySelector('.search-input');
-        autoCompleteNode = document.querySelector('.search-auto-complete');
-        resultNode = document.querySelector('.result');
-
-        if (!searchFormNode) {
-            return;
-        }
-
-        // Make sure we remove such if it's registered before.
-        searchFormNode.removeEventListener('submit', handleSearchSubmit)
-        searchInputNode.removeEventListener('input', handleSearchInput)
-        autoCompleteNode.removeEventListener('click', handleAutoCompleteClick)
-
-        searchFormNode.addEventListener('submit', handleSearchSubmit)
-        searchInputNode.addEventListener('input', handleSearchInput)
-        autoCompleteNode.addEventListener('click', handleAutoCompleteClick)
     }
 
     function maybeBuildSearch() {
@@ -243,11 +281,29 @@ if (null !== fuse_config_element) {
         }
     }
 
-    function buildSearch(el) {
-        el.innerHTML = ssp_search.html;
+    function getRandomId() {
+        var id  = 'search' + Date.now() + ( Math.random() * 100 );
+
+        if ( document.getElementById( id ) ) {
+            id = getRandomId();
+        }
+
+        return id;
     }
 
-    initSearch();
+    function buildSearch(el) {
+        // Holder of search
+        var div = document.createElement('div');
+        // Random custom ID.š
+        var id  = getRandomId();
+        div.setAttribute('id', id);
+        div.innerHTML = ssp_search.html;
+
+        el.outerHTML = div.outerHTML;
+        // Get it by ID to get the DOM element.
+        el = document.getElementById( id );
+        var form = new FuseSearchForm(el);
+    }
 
     window.addEventListener('click', handleWindowClick)
 } else {
