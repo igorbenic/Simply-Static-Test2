@@ -6,9 +6,9 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="//">
+<channel rdf:about="/">
 	<title>static</title>
-	<link>//</link>
+	<link>/</link>
 	<description></description>
 	<dc:date>2024-06-29T00:26:44Z	</dc:date>
 	<sy:updatePeriod>
@@ -16,41 +16,37 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.5.5" />
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="//post-for-sub-category/"/>
-					<rdf:li rdf:resource="//hello-world/"/>
+					<rdf:li rdf:resource="/post-for-sub-category/"/>
+					<rdf:li rdf:resource="/hello-world/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="//post-for-sub-category/">
+<item rdf:about="/post-for-sub-category/">
 	<title>Post for Sub category</title>
-	<link>//post-for-sub-category/</link>
+	<link>/post-for-sub-category/</link>
 
 	<dc:creator><![CDATA[admin]]></dc:creator>
 	<dc:date>2024-05-07T16:31:36Z</dc:date>
 			<dc:subject><![CDATA[Child Category 01]]></dc:subject>
 		<dc:subject><![CDATA[Uncategorized]]></dc:subject>
 
-			<description><![CDATA[<p>The post <a rel="nofollow" href="//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="//">static</a>.</p>
-]]></description>
-		<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="//post-for-sub-category/">Post for Sub category</a> appeared first on <a rel="nofollow" href="//">static</a>.</p>
-]]></content:encoded>
+			<description><![CDATA[]]></description>
+		<content:encoded><![CDATA[]]></content:encoded>
 	
 	</item>
-<item rdf:about="//hello-world/">
+<item rdf:about="/hello-world/">
 	<title>Hello world!</title>
-	<link>//hello-world/</link>
+	<link>/hello-world/</link>
 
 	<dc:creator><![CDATA[admin]]></dc:creator>
 	<dc:date>2022-12-08T20:56:16Z</dc:date>
 			<dc:subject><![CDATA[Parent Category]]></dc:subject>
 		<dc:subject><![CDATA[Uncategorized]]></dc:subject>
 
-			<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing! Updated website New update</p>
-<p>The post <a rel="nofollow" href="//hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="//">static</a>.</p>
-]]></description>
+			<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing! Updated website New update]]></description>
 		<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 
@@ -63,8 +59,6 @@
 <p>New update</p>
 
 
-<div class="cmplz-consent-area cmplz-placeholder" data-post_id="1" data-block_id="3nweii" data-category="marketing" data-service="general">
-		Accept to see this	</div><p>The post <a rel="nofollow" href="//hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="//">static</a>.</p>
 ]]></content:encoded>
 	
 	</item>
