@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://static.local/feed/">
+		<meta http-equiv="refresh" content="0;url=https://absolutesite.com/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://static.local/feed/";
+			window.location = "https://absolutesite.com/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="https://static.local/feed/">https://static.local/feed/</a></p>
+		<p>You are being redirected to <a href="https://absolutesite.com/feed/">https://absolutesite.com/feed/</a></p>
 	</body>
 </html>
