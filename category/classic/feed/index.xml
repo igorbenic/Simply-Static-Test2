@@ -460,6 +460,154 @@ You will learn later on in these tests that <code>word-wrap: break-word;</code> 
 		
 			</item>
 		<item>
+		<title>Markup: Title With Special Characters ~`!@#$%^&#038;*()-_=+{}[]/\;:&#039;&#8221;?,.&gt;</title>
+		<link>https://absolutesite.com/title-with-special-characters-2/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 Jan 2013 18:00:20 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Markup]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[markup]]></category>
+		<category><![CDATA[post]]></category>
+		<category><![CDATA[title]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=867</guid>
+
+					<description><![CDATA[Putting special characters in the title should have no adverse effect on the layout or functionality. Special characters in the post title have been known to cause issues with JavaScript when it is minified, especially in the admin when editing the post itself (ie. issues with metaboxes, media upload, etc.). Latin Character Tests This is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Putting special characters in the title should have no adverse effect on the layout or functionality.</p>
+<p>Special characters in the post title have been known to cause issues with JavaScript when it is minified, especially in the admin when editing the post itself (ie. issues with metaboxes, media upload, etc.).</p>
+<h2>Latin Character Tests</h2>
+<p>This is a test to see if the fonts used in this theme support basic Latin characters.</p>
+<table>
+<tbody>
+<tr>
+<td>!</td>
+<td>&#8220;</td>
+<td>#</td>
+<td>$</td>
+<td>%</td>
+<td>&amp;</td>
+<td>&#8216;</td>
+<td>(</td>
+<td>)</td>
+<td>*</td>
+</tr>
+<tr>
+<td>+</td>
+<td>,</td>
+<td>&#8211;</td>
+<td>.</td>
+<td>/</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>:</td>
+<td>;</td>
+<td>&gt;</td>
+<td>=</td>
+<td>&lt;</td>
+</tr>
+<tr>
+<td>?</td>
+<td>@</td>
+<td>A</td>
+<td>B</td>
+<td>C</td>
+<td>D</td>
+<td>E</td>
+<td>F</td>
+<td>G</td>
+<td>H</td>
+</tr>
+<tr>
+<td>I</td>
+<td>J</td>
+<td>K</td>
+<td>L</td>
+<td>M</td>
+<td>N</td>
+<td>O</td>
+<td>P</td>
+<td>Q</td>
+<td>R</td>
+</tr>
+<tr>
+<td>S</td>
+<td>T</td>
+<td>U</td>
+<td>V</td>
+<td>W</td>
+<td>X</td>
+<td>Y</td>
+<td>Z</td>
+<td>[</td>
+<td>\</td>
+</tr>
+<tr>
+<td>]</td>
+<td>^</td>
+<td>_</td>
+<td>`</td>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+<td>d</td>
+<td>e</td>
+<td>f</td>
+</tr>
+<tr>
+<td>g</td>
+<td>h</td>
+<td>i</td>
+<td>j</td>
+<td>k</td>
+<td>l</td>
+<td>m</td>
+<td>n</td>
+<td>o</td>
+<td>p</td>
+</tr>
+<tr>
+<td>q</td>
+<td>r</td>
+<td>s</td>
+<td>t</td>
+<td>u</td>
+<td>v</td>
+<td>w</td>
+<td>x</td>
+<td>y</td>
+<td>z</td>
+</tr>
+<tr>
+<td>{</td>
+<td>|</td>
+<td>}</td>
+<td>~</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Markup: Title With Markup</title>
 		<link>https://absolutesite.com/markup-title-with-markup/</link>
 		
@@ -573,28 +721,6 @@ You will learn later on in these tests that <code>word-wrap: break-word;</code> 
 
 					<description><![CDATA[This is a user-defined post excerpt. It <em>should</em> be displayed in place of the post content in archive-index pages. It can be longer than the automatically generated excerpts, and can have <strong>HTML</strong> tags.]]></description>
 										<content:encoded><![CDATA[<p>This is the post content. It <strong>should</strong> be displayed in place of the user-defined excerpt in single-page views.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Template: Excerpt (Generated)</title>
-		<link>https://absolutesite.com/template-excerpt-generated/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 14 Mar 2012 16:49:22 +0000</pubDate>
-				<category><![CDATA[Classic]]></category>
-		<category><![CDATA[Template]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[content περιεχόμενο]]></category>
-		<category><![CDATA[excerpt]]></category>
-		<category><![CDATA[template]]></category>
-		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1446</guid>
-
-					<description><![CDATA[This is the post content. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content. Depending on Theme-defined filters, the length of the auto-generated excerpt will vary from Theme-to-Theme. The default length for auto-generated excerpts is 55 words, so to test the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>This is the post content. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content. Depending on Theme-defined filters, the length of the auto-generated excerpt will vary from Theme-to-Theme. The default length for auto-generated excerpts is 55 words, so to test the excerpt auto-generation, this post must have more than 55 words.</p>
-<p>Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn&#8217;t create any layout problems. Also, ensure that any filters applied to the excerpt, such as <code>excerpt_length</code> and <code>excerpt_more</code>, display properly.</p>
 ]]></content:encoded>
 					
 		

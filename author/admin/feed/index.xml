@@ -333,12 +333,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-0-page=2&#038;simply_static_page=372739">2</a>
-<a class="page-numbers" href="?query-0-page=3&#038;simply_static_page=372739">3</a>
+<a class="page-numbers" href="?query-0-page=2&#038;simply_static_page=373695">2</a>
+<a class="page-numbers" href="?query-0-page=3&#038;simply_static_page=373695">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-0-page=20&#038;simply_static_page=372739">20</a></div>
+<a class="page-numbers" href="?query-0-page=20&#038;simply_static_page=373695">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=372739&#038;query-0-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=373695&#038;query-0-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -371,12 +371,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-1-page=2&#038;simply_static_page=372739">2</a>
-<a class="page-numbers" href="?query-1-page=3&#038;simply_static_page=372739">3</a>
+<a class="page-numbers" href="?query-1-page=2&#038;simply_static_page=373695">2</a>
+<a class="page-numbers" href="?query-1-page=3&#038;simply_static_page=373695">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-1-page=20&#038;simply_static_page=372739">20</a></div>
+<a class="page-numbers" href="?query-1-page=20&#038;simply_static_page=373695">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=372739&#038;query-1-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=373695&#038;query-1-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -417,12 +417,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-2-page=2&#038;simply_static_page=372739">2</a>
-<a class="page-numbers" href="?query-2-page=3&#038;simply_static_page=372739">3</a>
+<a class="page-numbers" href="?query-2-page=2&#038;simply_static_page=373695">2</a>
+<a class="page-numbers" href="?query-2-page=3&#038;simply_static_page=373695">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-2-page=20&#038;simply_static_page=372739">20</a></div>
+<a class="page-numbers" href="?query-2-page=20&#038;simply_static_page=373695">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=372739&#038;query-2-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=373695&#038;query-2-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -463,12 +463,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-5-page=2&#038;simply_static_page=372739">2</a>
-<a class="page-numbers" href="?query-5-page=3&#038;simply_static_page=372739">3</a>
+<a class="page-numbers" href="?query-5-page=2&#038;simply_static_page=373695">2</a>
+<a class="page-numbers" href="?query-5-page=3&#038;simply_static_page=373695">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-5-page=20&#038;simply_static_page=372739">20</a></div>
+<a class="page-numbers" href="?query-5-page=20&#038;simply_static_page=373695">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=372739&#038;query-5-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=373695&#038;query-5-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -569,7 +569,7 @@
 
 
 	<div id="respond" class="comment-respond wp-block-post-comments-form">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=372739#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=373695#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
 <p class="comment-form-email ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="email" class="screen-reader-text">Email*</label><input id="email" name="email" type="text" value="" placeholder="Email*" size="30" aria-required='true' autocomplete="email" /></p>
 <p class="comment-form-url ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="url"><label for="url" class="screen-reader-text">Website</label><input id="url" name="url" type="text" value="" placeholder="Website" size="30" autocomplete="url" /></label></p></div>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -584,7 +584,7 @@
 
 
 	<div id="respond" class="comment-respond wp-block-post-comments-form">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=372739#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=373695#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
 <p class="comment-form-email ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="email" class="screen-reader-text">Email*</label><input id="email" name="email" type="text" value="" placeholder="Email*" size="30" aria-required='true' autocomplete="email" /></p>
 <p class="comment-form-url ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="url"><label for="url" class="screen-reader-text">Website</label><input id="url" name="url" type="text" value="" placeholder="Website" size="30" autocomplete="url" /></label></p></div>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -597,7 +597,7 @@
 <p>Login/out:</p>
 
 
-<div class="logged-out wp-block-loginout"><a href="https://absolutesite.com/wp-login.php?redirect_to=http%3A%2F%2Fhttps%3A%2F%2Fabsolutesite.com%2Fauthor%2Fadmin%2Ffeed%2F%3Fsimply_static_page%3D372739">Log in</a></div>
+<div class="logged-out wp-block-loginout"><a href="https://absolutesite.com/wp-login.php?redirect_to=http%3A%2F%2Fhttps%3A%2F%2Fabsolutesite.com%2Fauthor%2Fadmin%2Ffeed%2F%3Fsimply_static_page%3D373695">Log in</a></div>
 
 
 
@@ -955,14 +955,14 @@
 <a href="https://absolutesite.com/tag/featured-image/" class="tag-cloud-link tag-link-105 tag-link-position-14" style="font-size: 12.666666666667pt;" aria-label="featured image (3 items)">featured image</a>
 <a href="https://absolutesite.com/tag/formatting-2/" class="tag-cloud-link tag-link-108 tag-link-position-15" style="font-size: 10.8pt;" aria-label="formatting (2 items)">formatting</a>
 <a href="https://absolutesite.com/tag/gallery/" class="tag-cloud-link tag-link-111 tag-link-position-16" style="font-size: 15.466666666667pt;" aria-label="gallery (5 items)">gallery</a>
-<a href="https://absolutesite.com/tag/html/" class="tag-cloud-link tag-link-117 tag-link-position-17" style="font-size: 15.466666666667pt;" aria-label="html (5 items)">html</a>
+<a href="https://absolutesite.com/tag/html/" class="tag-cloud-link tag-link-117 tag-link-position-17" style="font-size: 16.555555555556pt;" aria-label="html (6 items)">html</a>
 <a href="https://absolutesite.com/tag/image/" class="tag-cloud-link tag-link-118 tag-link-position-18" style="font-size: 20.133333333333pt;" aria-label="image (11 items)">image</a>
 <a href="https://absolutesite.com/tag/jetpack-2/" class="tag-cloud-link tag-link-121 tag-link-position-19" style="font-size: 10.8pt;" aria-label="jetpack (2 items)">jetpack</a>
 <a href="https://absolutesite.com/tag/layout/" class="tag-cloud-link tag-link-123 tag-link-position-20" style="font-size: 14.222222222222pt;" aria-label="layout (4 items)">layout</a>
 <a href="https://absolutesite.com/tag/link/" class="tag-cloud-link tag-link-124 tag-link-position-21" style="font-size: 10.8pt;" aria-label="link (2 items)">link</a>
 <a href="https://absolutesite.com/tag/lists-2/" class="tag-cloud-link tag-link-125 tag-link-position-22" style="font-size: 8pt;" aria-label="lists (1 item)">lists</a>
 <a href="https://absolutesite.com/tag/love/" class="tag-cloud-link tag-link-127 tag-link-position-23" style="font-size: 8pt;" aria-label="Love (1 item)">Love</a>
-<a href="https://absolutesite.com/tag/markup-2/" class="tag-cloud-link tag-link-128 tag-link-position-24" style="font-size: 16.555555555556pt;" aria-label="markup (6 items)">markup</a>
+<a href="https://absolutesite.com/tag/markup-2/" class="tag-cloud-link tag-link-128 tag-link-position-24" style="font-size: 17.333333333333pt;" aria-label="markup (7 items)">markup</a>
 <a href="https://absolutesite.com/tag/media/" class="tag-cloud-link tag-link-129 tag-link-position-25" style="font-size: 8pt;" aria-label="media (1 item)">media</a>
 <a href="https://absolutesite.com/tag/mothership/" class="tag-cloud-link tag-link-134 tag-link-position-26" style="font-size: 8pt;" aria-label="Mothership (1 item)">Mothership</a>
 <a href="https://absolutesite.com/tag/mustread/" class="tag-cloud-link tag-link-135 tag-link-position-27" style="font-size: 8pt;" aria-label="Must Read (1 item)">Must Read</a>
@@ -971,7 +971,7 @@
 <a href="https://absolutesite.com/tag/password-2/" class="tag-cloud-link tag-link-140 tag-link-position-30" style="font-size: 8pt;" aria-label="password (1 item)">password</a>
 <a href="https://absolutesite.com/tag/pictures/" class="tag-cloud-link tag-link-141 tag-link-position-31" style="font-size: 8pt;" aria-label="Pictures (1 item)">Pictures</a>
 <a href="https://absolutesite.com/tag/pingbacks-2/" class="tag-cloud-link tag-link-142 tag-link-position-32" style="font-size: 8pt;" aria-label="pingbacks (1 item)">pingbacks</a>
-<a href="https://absolutesite.com/tag/post/" class="tag-cloud-link tag-link-145 tag-link-position-33" style="font-size: 8pt;" aria-label="post (1 item)">post</a>
+<a href="https://absolutesite.com/tag/post/" class="tag-cloud-link tag-link-145 tag-link-position-33" style="font-size: 10.8pt;" aria-label="post (2 items)">post</a>
 <a href="https://absolutesite.com/tag/post-formats/" class="tag-cloud-link tag-link-146 tag-link-position-34" style="font-size: 22pt;" aria-label="Post Formats (15 items)">Post Formats</a>
 <a href="https://absolutesite.com/tag/quote/" class="tag-cloud-link tag-link-152 tag-link-position-35" style="font-size: 10.8pt;" aria-label="quote (2 items)">quote</a>
 <a href="https://absolutesite.com/tag/readability/" class="tag-cloud-link tag-link-155 tag-link-position-36" style="font-size: 8pt;" aria-label="readability (1 item)">readability</a>
@@ -980,7 +980,7 @@
 <a href="https://absolutesite.com/tag/standard-2/" class="tag-cloud-link tag-link-160 tag-link-position-39" style="font-size: 10.8pt;" aria-label="standard (2 items)">standard</a>
 <a href="https://absolutesite.com/tag/tags/" class="tag-cloud-link tag-link-171 tag-link-position-40" style="font-size: 10.8pt;" aria-label="Tags (2 items)">Tags</a>
 <a href="https://absolutesite.com/tag/template/" class="tag-cloud-link tag-link-172 tag-link-position-41" style="font-size: 20.6pt;" aria-label="template (12 items)">template</a>
-<a href="https://absolutesite.com/tag/title/" class="tag-cloud-link tag-link-177 tag-link-position-42" style="font-size: 15.466666666667pt;" aria-label="title (5 items)">title</a>
+<a href="https://absolutesite.com/tag/title/" class="tag-cloud-link tag-link-177 tag-link-position-42" style="font-size: 16.555555555556pt;" aria-label="title (6 items)">title</a>
 <a href="https://absolutesite.com/tag/twitter-2/" class="tag-cloud-link tag-link-179 tag-link-position-43" style="font-size: 10.8pt;" aria-label="twitter (2 items)">twitter</a>
 <a href="https://absolutesite.com/tag/video/" class="tag-cloud-link tag-link-182 tag-link-position-44" style="font-size: 12.666666666667pt;" aria-label="video (3 items)">video</a>
 <a href="https://absolutesite.com/tag/wordpress-tv/" class="tag-cloud-link tag-link-186 tag-link-position-45" style="font-size: 10.8pt;" aria-label="wordpress.tv (2 items)">wordpress.tv</a></p>
@@ -1278,6 +1278,8 @@
 		
 		<enclosure url="https://upload.wikimedia.org/wikipedia/commons/d/dd/Armstrong_Small_Step.ogg" length="98702" type="audio/ogg" />
 <enclosure url="https://absolutesite.com/wp-content/uploads/2013/12/2014-slider-mobile-behavior-1.mov" length="29881426" type="video/quicktime" />
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/d/dd/Armstrong_Small_Step.ogg" length="98702" type="audio/ogg" />
+<enclosure url="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov" length="29881426" type="video/quicktime" />
 
 			</item>
 		<item>
