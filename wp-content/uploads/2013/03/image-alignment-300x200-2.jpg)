@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://absolutesite.com/wp-content/uploads/2013/03/image-alignment-300x200-2.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://absolutesite.com/wp-content/uploads/2013/03/image-alignment-300x200-2.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://absolutesite.com/wp-content/uploads/2013/03/image-alignment-300x200-2.jpg">https://absolutesite.com/wp-content/uploads/2013/03/image-alignment-300x200-2.jpg</a></p>
+	</body>
+</html>
