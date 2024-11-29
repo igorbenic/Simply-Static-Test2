@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shortcode &#8211; static</title>
+	<atom:link href="https://absolutesite.com/tag/shortcode/feed/" rel="self" type="application/rss+xml" />
+	<link>https://absolutesite.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Sep 2010 14:24:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Post Format: Gallery</title>
+		<link>https://absolutesite.com/post-format-gallery/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=555</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<a href='https://absolutesite.com/post-format-gallery/100_5478/'><img decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Bell on Wharf" /></a>
+<a href='https://absolutesite.com/post-format-gallery/100_5540/'><img decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/100_5540-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Golden Gate Bridge" /></a>
+<a href='https://absolutesite.com/post-format-gallery/cep00032/'><img decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/cep00032-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Sunburst Over River" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dcp_2082/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dcp_2082-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Boardwalk" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc04563/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc04563-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Rain Ripples" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc09114/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc09114-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Sydney Harbor Bridge" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc20050102_192118_51/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc20050102_192118_51-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Wind Farm" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc20051220_160808_102/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc20051220_160808_102-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Antique Farm Machinery" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc20051220_173257_119/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc20051220_173257_119-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Rusty Rail" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dscn3316/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dscn3316-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Sea and Rocks" /></a>
+<a href='https://absolutesite.com/post-format-gallery/michelle_049/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/michelle_049-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Big Sur" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dcf-1-0/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/windmill-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windmill" /></a>
+<a href='https://absolutesite.com/post-format-gallery/alas-i-have-found-my-shangri-la/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/img_0513-1-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Huatulco Coastline" /></a>
+<a href='https://absolutesite.com/post-format-gallery/img_0747/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/img_0747-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Brazil Beach" /></a>
+<a href='https://absolutesite.com/post-format-gallery/img_0767/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/img_0767-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Huatulco Coastline" /></a>
+<a href='https://absolutesite.com/post-format-gallery/img_8399/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/img_8399-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Boat Barco Texture" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc20040724_152504_532-2/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2012/06/dsc20040724_152504_532-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc20050604_133440_34211/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2013/09/dsc20050604_133440_34211-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc20050315_145007_132-2/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2014/01/dsc20050315_145007_132-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc03149/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc03149-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Yachtsody in Blue" /></a>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Post Format: Gallery (Tiled)</title>
+		<link>https://absolutesite.com/post-format-gallery-tiled/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 00:23:27 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[jetpack]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<category><![CDATA[tiled]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1031</guid>
+
+					<description><![CDATA[This is a test for Jetpack&#8217;s Tiled Gallery. Install Jetpack to test. This is some text after the Tiled Gallery just to make sure that everything spaces nicely.]]></description>
+										<content:encoded><![CDATA[<p>This is a test for Jetpack&#8217;s Tiled Gallery.</p>
+<p>Install <a title="Jetpack for WordPress" href="https://wordpress.org/plugins/jetpack/" target="_blank">Jetpack</a> to test.</p>
+
+<a href='https://absolutesite.com/post-format-gallery/100_5540/'><img decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/100_5540-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Golden Gate Bridge" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dcp_2082/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dcp_2082-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Boardwalk" /></a>
+<a href='https://absolutesite.com/post-format-gallery/dsc09114/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc09114-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Sydney Harbor Bridge" /></a>
+<a href='https://absolutesite.com/post-format-gallery/michelle_049/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/michelle_049-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Big Sur" /></a>
+<a href='https://absolutesite.com/shape1-horiz/'><img loading="lazy" decoding="async" width="150" height="78" src="https://absolutesite.com/wp-content/uploads/2021/02/shape1-horiz.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p>This is some text after the Tiled Gallery just to make sure that everything spaces nicely.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Post Format: Image (Caption)</title>
+		<link>https://absolutesite.com/post-format-image-caption/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2010 13:00:19 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=674</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_754" aria-describedby="caption-attachment-754" style="width: 604px" class="wp-caption alignnone"><a href="https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1.jpg"><img loading="lazy" decoding="async" class="wp-image-754 size-large" src="https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1.jpg?w=604" alt="Bell on Wharf" width="604" height="453" srcset="https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1.jpg 1600w, https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1-300x225.jpg 300w, https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1-1024x768.jpg 1024w, https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1-768x576.jpg 768w, https://absolutesite.com/wp-content/uploads/2008/06/100_5478-1-1536x1152.jpg 1536w" sizes="(max-width: 604px) 100vw, 604px" /></a><figcaption id="caption-attachment-754" class="wp-caption-text">Bell on wharf in San Francisco</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Post Format: Audio</title>
+		<link>https://absolutesite.com/post-format-audio/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
+
+					<description><![CDATA[Link: St. Louis Blues Audio shortcode:]]></description>
+										<content:encoded><![CDATA[<p>Link:</p>
+<p><a href="https://absolutesite.com/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues-1.mp3">St. Louis Blues</a></p>
+<p>Audio shortcode:</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-587-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://absolutesite.com/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues-1.mp3?_=1" /><a href="https://absolutesite.com/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues-1.mp3">https://absolutesite.com/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues-1.mp3</a></audio>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://absolutesite.com/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues-1.mp3" length="3043247" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Edge Case: Many Tags</title>
+		<link>https://absolutesite.com/edge-case-many-tags/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2009 08:00:34 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Edge Case]]></category>
+		<category><![CDATA[8BIT]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[captions]]></category>
+		<category><![CDATA[categories]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[content περιεχόμενο]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[dowork]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[embeds]]></category>
+		<category><![CDATA[excerpt]]></category>
+		<category><![CDATA[Fail]]></category>
+		<category><![CDATA[featured image]]></category>
+		<category><![CDATA[FTW]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[jetpack]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[link]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[markup]]></category>
+		<category><![CDATA[Mothership]]></category>
+		<category><![CDATA[Must Read]]></category>
+		<category><![CDATA[Nailed It]]></category>
+		<category><![CDATA[Pictures]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[quote]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<category><![CDATA[standard]]></category>
+		<category><![CDATA[Success]]></category>
+		<category><![CDATA[Swagger]]></category>
+		<category><![CDATA[Tags]]></category>
+		<category><![CDATA[template]]></category>
+		<category><![CDATA[title]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[Unseen]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[videopress]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[wordpress.tv]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/11/24/many-tags/</guid>
+
+					<description><![CDATA[This post has many tags.]]></description>
+										<content:encoded><![CDATA[<p>This post has many tags.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
