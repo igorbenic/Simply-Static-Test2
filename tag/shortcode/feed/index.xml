@@ -77,11 +77,11 @@
 										<content:encoded><![CDATA[<p>This is a test for Jetpack&#8217;s Tiled Gallery.</p>
 <p>Install <a title="Jetpack for WordPress" href="https://wordpress.org/plugins/jetpack/" target="_blank">Jetpack</a> to test.</p>
 
+<a href='https://absolutesite.com/post-format-gallery/dcp_2082/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dcp_2082-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Boardwalk" /></a>
 <a href='https://absolutesite.com/post-format-gallery/dsc09114/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dsc09114-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Sydney Harbor Bridge" /></a>
+<a href='https://absolutesite.com/post-format-gallery/100_5540/'><img decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/100_5540-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Golden Gate Bridge" /></a>
 <a href='https://absolutesite.com/shape1-horiz/'><img loading="lazy" decoding="async" width="150" height="78" src="https://absolutesite.com/wp-content/uploads/2021/02/shape1-horiz.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
 <a href='https://absolutesite.com/post-format-gallery/michelle_049/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/michelle_049-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Big Sur" /></a>
-<a href='https://absolutesite.com/post-format-gallery/dcp_2082/'><img loading="lazy" decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/dcp_2082-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Boardwalk" /></a>
-<a href='https://absolutesite.com/post-format-gallery/100_5540/'><img decoding="async" width="150" height="150" src="https://absolutesite.com/wp-content/uploads/2008/06/100_5540-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Golden Gate Bridge" /></a>
 
 <p>This is some text after the Tiled Gallery just to make sure that everything spaces nicely.</p>
 ]]></content:encoded>

@@ -333,12 +333,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-0-page=2&#038;simply_static_page=373695">2</a>
-<a class="page-numbers" href="?query-0-page=3&#038;simply_static_page=373695">3</a>
+<a class="page-numbers" href="?query-0-page=2&#038;simply_static_page=374652">2</a>
+<a class="page-numbers" href="?query-0-page=3&#038;simply_static_page=374652">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-0-page=20&#038;simply_static_page=373695">20</a></div>
+<a class="page-numbers" href="?query-0-page=20&#038;simply_static_page=374652">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=373695&#038;query-0-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=374652&#038;query-0-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -371,12 +371,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-1-page=2&#038;simply_static_page=373695">2</a>
-<a class="page-numbers" href="?query-1-page=3&#038;simply_static_page=373695">3</a>
+<a class="page-numbers" href="?query-1-page=2&#038;simply_static_page=374652">2</a>
+<a class="page-numbers" href="?query-1-page=3&#038;simply_static_page=374652">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-1-page=20&#038;simply_static_page=373695">20</a></div>
+<a class="page-numbers" href="?query-1-page=20&#038;simply_static_page=374652">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=373695&#038;query-1-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=374652&#038;query-1-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -417,12 +417,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-2-page=2&#038;simply_static_page=373695">2</a>
-<a class="page-numbers" href="?query-2-page=3&#038;simply_static_page=373695">3</a>
+<a class="page-numbers" href="?query-2-page=2&#038;simply_static_page=374652">2</a>
+<a class="page-numbers" href="?query-2-page=3&#038;simply_static_page=374652">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-2-page=20&#038;simply_static_page=373695">20</a></div>
+<a class="page-numbers" href="?query-2-page=20&#038;simply_static_page=374652">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=373695&#038;query-2-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=374652&#038;query-2-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -463,12 +463,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-5-page=2&#038;simply_static_page=373695">2</a>
-<a class="page-numbers" href="?query-5-page=3&#038;simply_static_page=373695">3</a>
+<a class="page-numbers" href="?query-5-page=2&#038;simply_static_page=374652">2</a>
+<a class="page-numbers" href="?query-5-page=3&#038;simply_static_page=374652">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-5-page=20&#038;simply_static_page=373695">20</a></div>
+<a class="page-numbers" href="?query-5-page=20&#038;simply_static_page=374652">20</a></div>
 
-<a href="/author/admin/feed/?simply_static_page=373695&#038;query-5-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/author/admin/feed/?simply_static_page=374652&#038;query-5-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -569,7 +569,7 @@
 
 
 	<div id="respond" class="comment-respond wp-block-post-comments-form">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=373695#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=374652#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
 <p class="comment-form-email ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="email" class="screen-reader-text">Email*</label><input id="email" name="email" type="text" value="" placeholder="Email*" size="30" aria-required='true' autocomplete="email" /></p>
 <p class="comment-form-url ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="url"><label for="url" class="screen-reader-text">Website</label><input id="url" name="url" type="text" value="" placeholder="Website" size="30" autocomplete="url" /></label></p></div>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -584,7 +584,7 @@
 
 
 	<div id="respond" class="comment-respond wp-block-post-comments-form">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=373695#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/author/admin/feed/?simply_static_page=374652#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://absolutesite.com/wp-comments-post.php" method="post" id="ast-commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><div class="ast-row comment-textarea"><fieldset class="comment-form-comment"><legend class ="comment-form-legend"></legend><div class="comment-form-textarea ast-grid-common-col"><label for="comment" class="screen-reader-text">Type here..</label><textarea id="comment" name="comment" placeholder="Type here.." cols="45" rows="8" aria-required="true"></textarea></div></fieldset></div><div class="ast-comment-formwrap ast-row"><p class="comment-form-author ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="author" class="screen-reader-text">Name*</label><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required='true' autocomplete="name" /></p>
 <p class="comment-form-email ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="email" class="screen-reader-text">Email*</label><input id="email" name="email" type="text" value="" placeholder="Email*" size="30" aria-required='true' autocomplete="email" /></p>
 <p class="comment-form-url ast-grid-common-col ast-width-lg-33 ast-width-md-4 ast-float"><label for="url"><label for="url" class="screen-reader-text">Website</label><input id="url" name="url" type="text" value="" placeholder="Website" size="30" autocomplete="url" /></label></p></div>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -597,7 +597,7 @@
 <p>Login/out:</p>
 
 
-<div class="logged-out wp-block-loginout"><a href="https://absolutesite.com/wp-login.php?redirect_to=http%3A%2F%2Fhttps%3A%2F%2Fabsolutesite.com%2Fauthor%2Fadmin%2Ffeed%2F%3Fsimply_static_page%3D373695">Log in</a></div>
+<div class="logged-out wp-block-loginout"><a href="https://absolutesite.com/wp-login.php?redirect_to=http%3A%2F%2Fhttps%3A%2F%2Fabsolutesite.com%2Fauthor%2Fadmin%2Ffeed%2F%3Fsimply_static_page%3D374652">Log in</a></div>
 
 
 
@@ -675,7 +675,7 @@
 </ul>
 
 <div class="wp-block-calendar"><table id="wp-calendar" class="wp-calendar-table">
-	<caption>November 2024</caption>
+	<caption>December 2024</caption>
 	<thead>
 	<tr>
 		<th scope="col" title="Monday">M</th>
@@ -689,20 +689,23 @@
 	</thead>
 	<tbody>
 	<tr>
-		<td colspan="4" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td>
+		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
 	</tr>
 	<tr>
-		<td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+		<td>2</td><td id="today">3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
 	</tr>
 	<tr>
-		<td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td>
+		<td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
 	</tr>
 	<tr>
-		<td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
 	</tr>
 	<tr>
-		<td>25</td><td>26</td><td>27</td><td>28</td><td id="today">29</td><td>30</td>
-		<td class="pad" colspan="1">&nbsp;</td>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td><td>31</td>
+		<td class="pad" colspan="5">&nbsp;</td>
 	</tr>
 	</tbody>
 	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
